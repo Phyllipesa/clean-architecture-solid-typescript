@@ -1,8 +1,8 @@
 # Clean Architecture SOLID Typescript
 
-Este projeto é uma API simples desenvolvida em TypeScript que implementa os princípios da Clean Architecture e do SOLID. <br/>  A API dispõe de dois 
-endpoints principais: um para criar novos registros via POST e outro para listar esses registros via GET. <br/> O gerenciamento de dados é realizado com o Prisma.
-
+Este projeto é uma API simples desenvolvida em TypeScript que implementa os princípios da Clean Architecture e do SOLID. A API dispõe de dois 
+endpoints principais: um para criar novos registros via POST e outro para listar esses registros via GET.
+O gerenciamento de dados é realizado com o Prisma.
 
 ## Endpoints
 
@@ -50,10 +50,8 @@ Certifique-se de ter o NodeJS instalado em sua máquina.
 
 ## Tecnologias
 
- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+ ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) </br>
  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ## Autor
 
